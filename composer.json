@@ -1,0 +1,14 @@
+{
+    "name": "php/mars",
+    "description": "MVC web game",
+    "require-dev": {
+        "psr/log": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "evaldas1994",
+            "email": "evaldas.tuleikis@gmail.com"
+        }
+    ],
+    "require": {}
+}
